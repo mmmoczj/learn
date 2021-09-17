@@ -6,7 +6,6 @@ import java.util.List;
 public class Originator {
 
     private List<String> states;
-
     private int index;// 检查点序号
 
     public Originator() {
