@@ -1,4 +1,4 @@
-package learn.design_pattern.factory_pattern.simple_factory;
+package learn.design_pattern.factory_pattern.simple_factory.product;
 
 public class ConcreteProduct1 implements Product {
     @Override
